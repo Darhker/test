@@ -1,5 +1,5 @@
 // script.js
-const fechaEvento = new Date('2024-12-31T23:59:59'); // Cambia la fecha y hora del evento
+const fechaEvento = new Date('2024-12-20T12:00:00'); // Cambia la fecha y hora del evento
 
 function actualizarContador() {
     const ahora = new Date();
